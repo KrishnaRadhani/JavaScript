@@ -1,0 +1,19 @@
+js is scripting and programming lang used to add complex functons in website/app that helps in making interactive and attractive
+there are three js variables 
+var,let and const
+var is not used usually as it is the previous version of js variables where as let and const are variables of modern js
+-Points to be noted 
+let can be updated
+const cannot be updated
+but key of an object which is in const can be updated
+there are 7 primitive data types in js listed as:
+Number
+String
+Boolean
+undefined
+null
+BigInt
+Symbol
+
+and _ non-primitive data types:
+objects
